@@ -14,6 +14,6 @@ A React-based Weather Dashboard that allows users to search for current weather 
 - OpenWeatherMap API
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/<username>/weather-dashboard.git`
+1. Clone the repo: `(https://github.com/KRWAKANDA/Weather-Dashboard.git)`
 2. Install dependencies: `npm install`
 3. Run locally: `npm start`
