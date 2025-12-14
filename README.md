@@ -16,7 +16,7 @@ A modern React application that provides real-time weather information using the
 - **Frontend:** React (JavaScript)
 - **API:** WeatherAPI
 - **HTTP Client:** Fetch API / Axios
-- **Styling:** CSS / Tailwind CSS (optional)
+- **Styling:** CSS / Tailwind CSS 
 - **Build Tool:** Vite / Create React App
 
 ## Prerequisites
@@ -34,3 +34,4 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/KRWAKANDA/Weather-Dashboard.git
 cd weather-app
+
