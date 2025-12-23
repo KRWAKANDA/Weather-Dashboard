@@ -40,3 +40,7 @@ To run this project locally:
 Clone the repository:
 
 git clone https://github.com/your-username/weather-dashboard.git
+
+Build by Tyrone Rantlhoatlhoa
+
+For:Educational Purposes only
